@@ -4,7 +4,7 @@ Step by Step Deploy ML based Flask application on AWS EC2 instance
 
 1. Create Flask Application
 
-2. Run it on Local
+2. Run it on Local [Local](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). 
 
 3. **Create AWS account**
    &gt; pip install -r requirements.txt
