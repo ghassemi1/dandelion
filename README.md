@@ -14,7 +14,7 @@ Step by Step Deploy ML based Flask application on AWS EC2 instance
 
 7. **download Putty**
    ```bash
-    $ pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
 
 9. download Puttygen
