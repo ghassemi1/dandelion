@@ -32,7 +32,6 @@ python3 main.py
 
 13. <use public AWS hostname>:8080 
 
-ENJOY!!!!
   
 
 
